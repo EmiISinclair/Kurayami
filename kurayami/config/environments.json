@@ -1,0 +1,20 @@
+{
+    "environments": [
+      {
+        "name": "DEV",
+        "path": "/wars/???",
+        "glassfish_url": "http://glassfish:8080 Deberia poner la url del GF de DEV para ver si puede conectarse, hay que preguntar como se podria lograr"
+      },
+      {
+        "name": "QA",
+        "path": "/wars/??",
+        "glassfish_url": "http://glassfish:8080"
+      },
+      {
+        "name": "PROD",
+        "path": "/wars/??",
+        "glassfish_url": "http://glassfish:8080"
+      }
+    ]
+  }
+  
